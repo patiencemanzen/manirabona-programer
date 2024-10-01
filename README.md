@@ -1,11 +1,10 @@
-<h1 align="left">Hello!👋🏼, I am Manirabona H. Patience 🤴🏽</h1>
-
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## About
-Thousand-hills Born a software engineer and backend developer with a strong track record of success. I have three years of practical experience in PHP and an additional two years of specialization in technologies such as Laravel, Vue.js, and TypeScript. My skill set includes problem-solving, developing innovative solutions, and adapting to new technologies with ease. I have also contributed to the growth and success of Rwandan startups, which showcases my ability to thrive in passionate and entrepreneurial environments.
+## About Me
+Patience is Thousand-hills Born a software engineer with a strong track record of success. I have many years of practical experience.
+My skill set includes problem-solving, developing innovative solutions, and adapting to new technologies with ease. I have also contributed to the growth and success of different startups, which showcases my ability to thrive in passionate and entrepreneurial environments.
 
-<h3 align="left">Teck stack 🛠 Languages and Tools:</h3>
+## Teck stack 🛠 Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwindcss,git,vscode,docker,laravel,react,graphql,kubernetes,appwrite,mysql,nodejs,php,postman,redis,vue,aws,gcp,azure,anaconda,androidstudio,figma,github,heroku,mongodb,vite,supabase)](https://skillicons.dev)
 
@@ -51,12 +50,3 @@ I often thought of Steve Jobs’ reality distortion field: when you believe in s
 - ⚡ Fun fact **Is Working overtime is likely**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=patiencemanzen&rank_icon=github&show_icons=true&theme=tokyonight)
-
-## Connect with Me
-
-[![Connect With Me on twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ManirabonaW)
-[![Connect With Me on linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/manirabona-patience-3b08051b4))
-[![Connect With Me on gmail](https://skillicons.dev/icons?i=gmail)](hseal419@gmail.com)
-[![Connect With Me on github](https://skillicons.dev/icons?i=github)]([https://skillicons.dev](https://github.com/patiencemanzen))
-[![Connect With Me on instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/i.am.patience.traveller)
-[![Connect With Me on discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
